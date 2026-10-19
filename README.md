@@ -102,6 +102,12 @@ importam na comparação).
 > execute por cima. A partir da 0.35.1, as próximas atualizações chegam
 > pelo botão da página Sobre.
 
+> ⚠️ **Está na 0.35.1?** O botão "Baixar e instalar" pode falhar com erro
+> 415 nesta transição — atualize manualmente uma vez: baixe o instalador da
+> [release mais recente](https://github.com/jackramon/IronPDF/releases/latest)
+> e execute por cima. Da 0.35.3 em diante o atualizador volta a funcionar
+> normalmente pelo botão da página Sobre.
+
 ## Privacidade
 
 **Telemetria zero**: o app não coleta dados, não envia estatísticas e não
